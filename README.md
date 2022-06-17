@@ -1,3 +1,2 @@
-- Måns Andersson
-- Studerar systemutveckling vid Högskolan Väst!
+oh hello!
 
